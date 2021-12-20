@@ -3,7 +3,7 @@ import {Fabric} from "@f-ui/core";
 import styles from '../styles/Home.module.css'
 function MyApp({Component, pageProps}) {
     return (
-        <Fabric theme={'dark'} className={styles.wrapper} >
+        <Fabric theme={'light'} className={styles.wrapper} >
             <Component {...pageProps} />
         </Fabric>
     )
