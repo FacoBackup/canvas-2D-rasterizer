@@ -26,8 +26,8 @@ export default function Home() {
                     <span className={'material-icons-round'}>category</span>
                     Meshes available
                 </h2>
-                {fileNames.map(name => (
-                    <div className={styles.mesh}
+                {fileNames.map((name, i) => (
+                    <div className={styles.mesh} key={name + '-' + i}
                          style={{outline: currentMesh === name ? '#0095ff 2px solid' : undefined}}>
                         <Button onClick={() => setCurrentMesh(name)} styles={{width: '100%', textAlign: 'left'}}>
                             {name}
