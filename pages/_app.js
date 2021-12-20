@@ -1,7 +1,12 @@
 import '../styles/globals.css'
-
-function MyApp({ Component, pageProps }) {
-  return <Component {...pageProps} />
+import {Fabric} from "@f-ui/core";
+import styles from '../styles/Home.module.css'
+function MyApp({Component, pageProps}) {
+    return (
+        <Fabric theme={'dark'} className={styles.wrapper} >
+            <Component {...pageProps} />
+        </Fabric>
+    )
 }
 
 export default MyApp

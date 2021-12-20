@@ -1,0 +1,6 @@
+[submodule "public/models"]
+	path = public/models
+	url = https://github.com/FacoBackup/3D-MODELS.git
+[submodule "components"]
+	path = components
+	url = https://github.com/FacoBackup/canvas-3d-engine.git
