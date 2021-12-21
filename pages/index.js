@@ -15,7 +15,7 @@ export default function Home() {
         })
     }, [])
 
-    const [currentMesh, setCurrentMesh] = useState('sphere.obj')
+    const [currentMesh, setCurrentMesh] = useState('donut.obj')
     return (
         <div style={{display: 'flex', height: 'inherit', width: 'inherit', maxHeight: 'inherit'}}>
             <Engine
