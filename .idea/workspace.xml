@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="68824e3f-e620-4ee5-bd9b-8c59ed04fe44" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/components/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/components/Viewport.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/components/Viewport.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/pages/index.js" afterDir="false" />
-    </list>
+    <list default="true" id="68824e3f-e620-4ee5-bd9b-8c59ed04fe44" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -37,18 +32,22 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/components/styles" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/components/core/shaders" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="settings.editor.selected.configurable" value="proofread" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="Z:\engine\components\core\shaders" />
       <recent name="\\wsl.localhost\Ubuntu\home\roque\projects\engine\components\styles" />
       <recent name="\\wsl.localhost\Ubuntu\home\roque\projects\engine\components\components" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="Z:\engine\components\core\shaders" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -62,6 +61,9 @@
       <workItem from="1640037040448" duration="7205000" />
       <workItem from="1640082988737" duration="1828000" />
       <workItem from="1640085273651" duration="7607000" />
+      <workItem from="1640273294373" duration="7013000" />
+      <workItem from="1640287901384" duration="2917000" />
+      <workItem from="1640345069187" duration="13939000" />
     </task>
     <servers />
   </component>
@@ -78,6 +80,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
