@@ -14,11 +14,20 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="JavaScript File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/components" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
   </component>
   <component name="ProjectId" id="22ZF7bEVbXnP2k8U2yM8GJByNK8" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -32,22 +41,30 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/components/core/shaders" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/prototype/styles" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="yarn" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="Z:\engine\components\core\shaders" />
-      <recent name="\\wsl.localhost\Ubuntu\home\roque\projects\engine\components\styles" />
-      <recent name="\\wsl.localhost\Ubuntu\home\roque\projects\engine\components\components" />
+      <recent name="\\wsl.localhost\Ubuntu\home\roque\projects\engine\prototype\styles" />
+      <recent name="\\wsl.localhost\Ubuntu\home\roque\projects\engine\prototype\components" />
+      <recent name="\\wsl.localhost\Ubuntu\home\roque\projects\engine\prototype\templates\functions\basic" />
+      <recent name="\\wsl.localhost\Ubuntu\home\roque\projects\engine\prototype\templates\functions\algebra" />
+      <recent name="\\wsl.localhost\Ubuntu\home\roque\projects\engine\prototype\templates\operations" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="Z:\engine\components\core\shaders" />
+      <recent name="\\wsl.localhost\Ubuntu\home\roque\projects\engine\components\ui\components\scene\forms" />
+      <recent name="\\wsl.localhost\Ubuntu\home\roque\projects\engine\components\ui\components\files" />
+      <recent name="\\wsl.localhost\Ubuntu\home\roque\projects\engine\components\ui\components" />
+      <recent name="\\wsl.localhost\Ubuntu\home\roque\projects\engine\prototype\templates\engine" />
+      <recent name="\\wsl.localhost\Ubuntu\home\roque\projects\engine\prototype\templates\basic" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -64,6 +81,27 @@
       <workItem from="1640273294373" duration="7013000" />
       <workItem from="1640287901384" duration="2917000" />
       <workItem from="1640345069187" duration="13939000" />
+      <workItem from="1640368510746" duration="13633000" />
+      <workItem from="1640433020823" duration="12567000" />
+      <workItem from="1640460305171" duration="11271000" />
+      <workItem from="1640514373055" duration="7082000" />
+      <workItem from="1640536372198" duration="13530000" />
+      <workItem from="1640602256200" duration="15110000" />
+      <workItem from="1640618299782" duration="1000" />
+      <workItem from="1640623204901" duration="9460000" />
+      <workItem from="1640692727999" duration="28139000" />
+      <workItem from="1640729118435" duration="4588000" />
+      <workItem from="1640777982010" duration="19100000" />
+      <workItem from="1640799293904" duration="4637000" />
+      <workItem from="1640805887568" duration="4206000" />
+      <workItem from="1640861995027" duration="15351000" />
+      <workItem from="1640880666681" duration="17840000" />
+      <workItem from="1640950349506" duration="347000" />
+      <workItem from="1640951554046" duration="8130000" />
+      <workItem from="1640966221966" duration="71000" />
+      <workItem from="1640966520718" duration="438000" />
+      <workItem from="1640971401240" duration="7094000" />
+      <workItem from="1641035262892" duration="9982000" />
     </task>
     <servers />
   </component>

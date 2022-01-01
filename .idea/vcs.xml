@@ -4,7 +4,18 @@
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/components" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/components/core" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/components/ui/components/directory/files" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/components/ui/components/directory/fs" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/components/ui/components/files" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/components/ui/components/scripting" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/components/ui/fs" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/core" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/core/src/core" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/fs" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/fs/src/core" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/math" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/math/f" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/prototype" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/public/models" vcs="Git" />
   </component>
 </project>
