@@ -15,7 +15,7 @@
 # production
 /build
 
-# misc
+# camera
 .DS_Store
 *.pem
 

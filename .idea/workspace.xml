@@ -4,7 +4,25 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="68824e3f-e620-4ee5-bd9b-8c59ed04fe44" name="Changes" comment="" />
+    <list default="true" id="68824e3f-e620-4ee5-bd9b-8c59ed04fe44" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/public/config.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/samples/sphere.js" beforeDir="false" afterPath="$PROJECT_DIR$/components/samples/sphere.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/ui/files" beforeDir="false" afterPath="$PROJECT_DIR$/components/ui/files" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/ui/files/Explorer.js" beforeDir="false" afterPath="$PROJECT_DIR$/components/ui/files/Explorer.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/ui/scripting" beforeDir="false" afterPath="$PROJECT_DIR$/components/ui/scripting" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/ui/scripting/Prototype.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/ui/scripting/Prototype.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/ui/scripting/components/Board.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/ui/scripting/components/Board.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/ui/scripting/components/Node.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/ui/scripting/components/Node.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/ui/scripting/hooks/useBoard.js" beforeDir="false" afterPath="$PROJECT_DIR$/components/ui/scripting/hooks/useBoard.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/_app.js" beforeDir="false" afterPath="$PROJECT_DIR$/pages/_app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/pages/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/a2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/albedo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,8 +31,10 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="JavaScript File" />
         <option value="CSS File" />
+        <option value="GLSL Shader" />
+        <option value="JavaScript File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -29,6 +49,11 @@
       <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
     </file-type-list>
   </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external/lib.dom.d.ts" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/components/core/engine/mesh/Mesh.js" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/components/core/engine/useRender.js" root0="FORCE_HIGHLIGHTING" />
+  </component>
   <component name="ProjectId" id="22ZF7bEVbXnP2k8U2yM8GJByNK8" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
@@ -38,33 +63,35 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/prototype/styles" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/components/core/engine/shaders/mesh/resources" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="yarn" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="\\wsl.localhost\Ubuntu\home\roque\projects\engine\prototype\styles" />
-      <recent name="\\wsl.localhost\Ubuntu\home\roque\projects\engine\prototype\components" />
-      <recent name="\\wsl.localhost\Ubuntu\home\roque\projects\engine\prototype\templates\functions\basic" />
-      <recent name="\\wsl.localhost\Ubuntu\home\roque\projects\engine\prototype\templates\functions\algebra" />
-      <recent name="\\wsl.localhost\Ubuntu\home\roque\projects\engine\prototype\templates\operations" />
+      <recent name="\\wsl.localhost\Ubuntu\home\roque\projects\engine\components\core\engine\shaders\mesh\resources" />
+      <recent name="\\wsl.localhost\Ubuntu\home\roque\projects\engine\components\core\engine\mesh\pbr" />
+      <recent name="\\wsl.localhost\Ubuntu\home\roque\projects\engine\components\core\engine\shaders\skybox" />
+      <recent name="\\wsl.localhost\Ubuntu\home\roque\projects\engine\components\core\engine\shaders\mesh" />
+      <recent name="\\wsl.localhost\Ubuntu\home\roque\projects\engine\components\core\engine\misc" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="\\wsl.localhost\Ubuntu\home\roque\projects\engine\components\ui\components\scene\forms" />
-      <recent name="\\wsl.localhost\Ubuntu\home\roque\projects\engine\components\ui\components\files" />
-      <recent name="\\wsl.localhost\Ubuntu\home\roque\projects\engine\components\ui\components" />
-      <recent name="\\wsl.localhost\Ubuntu\home\roque\projects\engine\prototype\templates\engine" />
-      <recent name="\\wsl.localhost\Ubuntu\home\roque\projects\engine\prototype\templates\basic" />
+      <recent name="\\wsl.localhost\Ubuntu\home\roque\projects\engine\components\core\engine\mesh\pbr" />
+      <recent name="\\wsl.localhost\Ubuntu\home\roque\projects\engine\components\core\engine\shaders\mesh" />
+      <recent name="\\wsl.localhost\Ubuntu\home\roque\projects\engine\components\core\engine\shaders\grid\resources" />
+      <recent name="\\wsl.localhost\Ubuntu\home\roque\projects\engine\components\core\engine\shaders\grid" />
+      <recent name="\\wsl.localhost\Ubuntu\home\roque\projects\engine\components\core\engine\shaders\skybox\resources" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -101,7 +128,19 @@
       <workItem from="1640966221966" duration="71000" />
       <workItem from="1640966520718" duration="438000" />
       <workItem from="1640971401240" duration="7094000" />
-      <workItem from="1641035262892" duration="9982000" />
+      <workItem from="1641035262892" duration="22804000" />
+      <workItem from="1641119817034" duration="21980000" />
+      <workItem from="1641154798493" duration="1104000" />
+      <workItem from="1641209826081" duration="7007000" />
+      <workItem from="1641218488982" duration="22703000" />
+      <workItem from="1641248914990" duration="2167000" />
+      <workItem from="1641296269290" duration="30952000" />
+      <workItem from="1641335342469" duration="560000" />
+      <workItem from="1641383298905" duration="11279000" />
+      <workItem from="1641396282512" duration="7017000" />
+      <workItem from="1641404822696" duration="2692000" />
+      <workItem from="1641410946046" duration="8206000" />
+      <workItem from="1641467965934" duration="18631000" />
     </task>
     <servers />
   </component>
@@ -119,6 +158,22 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/components/ui/tabs/Tabs.jsx</url>
+          <line>12</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/components/core/utils/utils.js</url>
+          <line>10</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

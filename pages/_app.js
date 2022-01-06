@@ -1,5 +1,5 @@
 import '../styles/globals.css'
-import {Button, Fabric, ToolTip} from "@f-ui/core";
+import {Fabric} from "@f-ui/core";
 import styles from '../styles/Home.module.css'
 import {useState} from "react";
 import "@fontsource/roboto";
